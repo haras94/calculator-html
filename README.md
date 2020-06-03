@@ -5,7 +5,7 @@
   <img height="100" src="https://github.com/haras94/Bandung/blob/master/assets/ss%20web/javasript.png">
 </p>
 <p align="center">
-  Build with HTML, CSS dan Javascript
+  Build with HTML, CSS and Javascript
 </p>
 
 ## Table of Contents
